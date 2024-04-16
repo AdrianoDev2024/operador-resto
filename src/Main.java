@@ -15,7 +15,7 @@ public class Main {
 
         } else{
             System.out.println("O número é IMPAR");
-        System.out.println("Número digitado foi : " + numero);
+        System.out.println(mensagem + numero);
 
     }
     }

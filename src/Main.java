@@ -11,12 +11,11 @@ public class Main {
 
         if (numero % 2 == 0) {
             System.out.println("O número é PAR");
-            System.out.println(mensagem + numero);
 
         } else{
             System.out.println("O número é IMPAR");
-        System.out.println(mensagem + numero);
-
+            
     }
+        System.out.println(mensagem + numero);
     }
 }
